@@ -1,0 +1,5 @@
+# bin, obj, debug, logs, release folders
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
